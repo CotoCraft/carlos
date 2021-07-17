@@ -1,3 +1,4 @@
 background(255, 255, 255);
 var mousex;
 var mousey;
+   ellipse(mousex, mousex, 100, 100
