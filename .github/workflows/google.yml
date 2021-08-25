@@ -27,7 +27,7 @@ jobs:
   setup-build-publish-deploy:
     name: Setup, Build, Publish, and Deploy
     runs-on: ubuntu-latest
-    environment: production
+    
    - name: HTML5 Validator
   # You may pin to the exact commit or the version.
   # uses: Cyb3r-Jak3/html5validator-action@0add3e3a734b3e41cbae0f971538363993ac8b18
