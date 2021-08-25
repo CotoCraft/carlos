@@ -1,10 +1,7 @@
-background(255, 255, 255);
-var mousex;
-var mousey;
-draw=function};
-fill(0, 120, 120);
-   ellipse(mousex, mousex, 100, 100);
-   fill(0, 150, 150);
-   textSize(15, 45, 360, 400);
-text("Hello world",);
-}
+<DOCTYPE html>
+<style>
+<head>
+<body>
+  <html>
+  <h1>Perfect Summer</h1>
+  <img src=https:"//www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FParis&psig=AOvVaw2M_CMZFShV31eP8AfoxHbF&ust=1630016893789000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj_s6uczfICFQAAAAAdAAAAABAF">
