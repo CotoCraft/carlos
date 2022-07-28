@@ -35,4 +35,5 @@ function love.draw
     love.graphics.draw(background, 0, VIRTUAL_HEIGHT - 16 )
 
     push:finnish
-end
+    
+    end
